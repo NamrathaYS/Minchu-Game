@@ -1,4 +1,4 @@
-## Treasure Island
+## Minchu The cat Game
 
 # Instructions
 
